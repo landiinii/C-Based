@@ -1,0 +1,31 @@
+createArray 10
+createArray 1000
+medianOfThree 0 5
+partition 0 5 3
+getArray
+addToArray 1
+addToArray 2
+addToArray 3
+addToArray 4
+addToArray 5
+medianOfThree 0 5
+medianOfThree -1 4
+getArray
+medianOfThree 0 4
+getArray
+medianOfThree 2 2
+medianOfThree 2 1
+getArray
+createArray 3
+addToArray 1
+addToArray 2
+addToArray 3
+getArray
+medianOfThree 1 3
+getArray
+partition -1 2 1
+partition 0 3 2
+partition 1 1 1
+medianOfThree 2 0
+partition 0 1 2
+getArray

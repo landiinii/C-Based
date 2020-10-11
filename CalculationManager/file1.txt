@@ -1,0 +1,9 @@
+isBalanced { { [ ( ) ] } ( ) }
+isBalanced { [ ) }
+isBalanced { ( [ ] } )
+isBalanced {
+isBalanced { { ( ) [ { } ] ( [ ] ) } }
+isBalanced }
+isBalanced ( }
+isBalanced ( { { } }
+isBalanced } {

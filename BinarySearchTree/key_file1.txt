@@ -1,0 +1,36 @@
+Add 1 True
+Add 2 True
+Add 3 True
+Add 1 False
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+
+Add 4 True
+Add 5 True
+Add 6 True
+Add 10 True
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+3:  4 
+4:  5 
+5:  6 
+6:  10 
+
+Add 8 True
+Add 7 True
+Add 9 True
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+3:  4 
+4:  5 
+5:  6 
+6:  10 
+7:  8 
+8:  7 9 
+

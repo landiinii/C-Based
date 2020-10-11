@@ -1,0 +1,50 @@
+createArray 10
+addToArray 10
+addToArray 9
+addToArray 8
+addToArray 7
+addToArray 6
+addToArray 5
+addToArray 4
+addToArray 3
+addToArray 2
+addToArray 1
+getArray
+partition 0 9 9
+getArray
+partition 0 9 0
+getArray
+partition 0 4 2
+getArray
+partition 5 9 7
+getArray
+partition 0 9 4
+getArray
+partition 0 9 7
+getArray
+partition 0 9 6
+getArray
+partition 0 5 5
+getArray
+partition 0 7 4
+getArray
+partition 0 9 3
+getArray
+partition 0 2 2
+getArray
+partition 0 3 1
+getArray
+createArray 6
+addToArray 2
+addToArray 2
+addToArray 2
+addToArray 3
+addToArray 1
+addToArray 2
+getArray
+partition 0 2 1
+getArray
+partition 0 4 4
+getArray
+partition 1 5 3
+getArray

@@ -1,0 +1,70 @@
+Add 1 True
+Add 2 True
+Add 3 True
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+
+Add 4 True
+Add 5 True
+Add 6 True
+Add 10 True
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+3:  4 
+4:  5 
+5:  6 
+6:  10 
+
+Add 8 True
+Add 7 True
+Add 9 True
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+3:  4 
+4:  5 
+5:  6 
+6:  10 
+7:  8 
+8:  7 9 
+
+Remove 11 False
+Remove 10 True
+Remove 9 True
+Remove 6 True
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+3:  4 
+4:  5 
+5:  8 
+6:  7 
+
+Remove 8 True
+Remove 7 True
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+3:  4 
+4:  5 
+
+Remove 5 True
+Remove 4 True
+Remove 3 True
+Remove 2 True
+PrintBST
+0:  1 
+
+Remove 1 True
+PrintBST
+BST is empty
+Clear
+PrintBST
+BST is empty

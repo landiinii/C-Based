@@ -1,0 +1,52 @@
+createArray 5
+addToArray 10
+addToArray 5
+addToArray 0
+addToArray -5
+addToArray -10
+getArray
+medianOfThree 0 4
+getArray
+medianOfThree 0 0
+getArray
+medianOfThree 0 2
+getArray
+medianOfThree 1 3
+getArray
+createArray 10
+getArray
+addToArray 10
+addToArray 9
+addToArray 8
+addToArray 7
+addToArray 6
+addToArray 5
+addToArray 4
+addToArray 3
+addToArray 2
+addToArray 1
+getArray
+medianOfThree 0 9
+getArray
+medianOfThree 0 2
+getArray
+medianOfThree 2 4
+getArray
+medianOfThree 4 6
+getArray
+medianOfThree 6 8
+getArray
+createArray 4
+addToArray 2
+addToArray 1
+addToArray 1
+addToArray 1
+getArray
+medianOfThree 1 3
+getArray
+medianOfThree 0 2
+getArray 
+medianOfThree 0 3
+getArray
+medianOfThree 1 3
+getArray

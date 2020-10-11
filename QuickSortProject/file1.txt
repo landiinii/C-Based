@@ -1,0 +1,27 @@
+createArray 5
+addToArray 1
+addToArray 2
+addToArray 3
+addToArray 4
+addToArray 5
+getArray
+clear 
+getArray
+getSize
+createArray 5
+getArray
+getSize
+addToArray -5
+getSize
+addToArray -4
+getSize
+getArray
+addToArray -3
+addToArray -2
+getSize
+addToArray -1
+getSize
+getArray
+addToArray 6
+getSize
+getArray

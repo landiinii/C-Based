@@ -1,0 +1,124 @@
+createArray 20
+addToArray 9
+addToArray 8
+addToArray 7
+addToArray 6
+addToArray 5
+addToArray 4
+addToArray 3
+addToArray 2
+addToArray 1
+addToArray 0
+getArray
+sortAll
+getArray
+createArray 20
+addToArray 9
+addToArray 8
+addToArray 7
+addToArray 6
+addToArray 5
+addToArray 4
+addToArray 3
+addToArray 2
+addToArray 1
+addToArray 0
+addToArray 9
+addToArray 8
+addToArray 7
+addToArray 6
+addToArray 5
+addToArray 4
+addToArray 3
+addToArray 2
+addToArray 1
+addToArray 0
+getArray
+sortAll
+getArray
+createArray 20
+addToArray 0
+addToArray 0
+addToArray 0
+addToArray 0
+addToArray 0
+addToArray -1
+addToArray 0
+addToArray 0
+addToArray 0
+addToArray 0
+addToArray 1
+addToArray 0
+addToArray 0
+addToArray 0
+addToArray 0
+addToArray 1
+addToArray 0
+addToArray 0
+addToArray -1
+addToArray 0
+getArray
+sortAll
+getArray
+createArray 30
+addToArray 30
+addToArray 29
+addToArray 28
+addToArray 27
+addToArray 26
+addToArray 25
+addToArray 24
+addToArray 23
+addToArray 22
+addToArray 21
+addToArray 20
+addToArray 19
+addToArray 18
+addToArray 17
+addToArray 16
+addToArray 15
+addToArray 14
+addToArray 13
+addToArray 12
+addToArray 11
+addToArray 10
+addToArray 9
+addToArray 8
+addToArray 7
+addToArray 6
+addToArray 5
+addToArray 4
+addToArray 3
+addToArray 2
+addToArray 1
+getArray
+sortAll
+getArray
+createArray 10
+addToArray 1 
+addToArray 2
+addToArray 3
+addToArray 4
+addToArray 1
+addToArray 5
+addToArray 6
+addToArray 7
+addToArray 8
+addToArray 9
+getArray
+sortAll
+getArray
+createArray 10
+addToArray 4
+addToArray 6
+addToArray 2
+addToArray 1
+addToArray 9
+addToArray 5
+addToArray 3
+addToArray 8
+addToArray 7
+addToArray 9
+getArray
+sortAll
+getArray

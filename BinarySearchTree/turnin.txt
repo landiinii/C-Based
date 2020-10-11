@@ -1,0 +1,675 @@
+Add 1 True
+Add 2 True
+Add 3 True
+Add 1 False
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+
+Add 4 True
+Add 5 True
+Add 6 True
+Add 10 True
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+3:  4 
+4:  5 
+5:  6 
+6:  10 
+
+Add 8 True
+Add 7 True
+Add 9 True
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+3:  4 
+4:  5 
+5:  6 
+6:  10 
+7:  8 
+8:  7 9 
+
+Add 1 True
+Add 2 True
+Add 3 True
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+
+Add 4 True
+Add 5 True
+Add 6 True
+Add 10 True
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+3:  4 
+4:  5 
+5:  6 
+6:  10 
+
+Add 8 True
+Add 7 True
+Add 9 True
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+3:  4 
+4:  5 
+5:  6 
+6:  10 
+7:  8 
+8:  7 9 
+
+Remove 11 False
+Remove 10 True
+Remove 9 True
+Remove 6 True
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+3:  4 
+4:  5 
+5:  8 
+6:  7 
+
+Remove 8 True
+Remove 7 True
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+3:  4 
+4:  5 
+
+Remove 5 True
+Remove 4 True
+Remove 3 True
+Remove 2 True
+PrintBST
+0:  1 
+
+Remove 1 True
+PrintBST
+BST is empty
+Clear
+PrintBST
+BST is empty
+Clear
+PrintBST
+BST is empty
+Add 9 True
+Add 99 True
+Add 999 True
+Add 9999 True
+Add 99999 True
+Add 999999 True
+Add 9999999 True
+Add 99999999 True
+Add 999999999 True
+Add 8 True
+Add 88 True
+Add 888 True
+Add 8888 True
+Add 88888 True
+Add 888888 True
+Add 8888888 True
+Add 88888888 True
+Add 7 True
+Add 77 True
+Add 777 True
+Add 7777 True
+Add 77777 True
+Add 777777 True
+Add 7777777 True
+Add 6 True
+Add 66 True
+Add 666 True
+Add 6666 True
+Add 66666 True
+Add 666666 True
+Add 5 True
+Add 55 True
+Add 555 True
+Add 5555 True
+Add 55555 True
+Add 4 True
+Add 44 True
+Add 444 True
+Add 4444 True
+Add 3 True
+Add 33 True
+Add 333 True
+Add 2 True
+Add 22 True
+Add 1 True
+PrintBST
+0:  9 
+1:  8 99 
+2:  7 88 999 
+3:  6 77 888 9999 
+4:  5 66 777 8888 99999 
+5:  4 55 666 7777 88888 999999 
+6:  3 44 555 6666 77777 888888 9999999 
+7:  2 33 444 5555 66666 777777 8888888 99999999 
+8:  1 22 333 4444 55555 666666 7777777 88888888 999999999 
+
+Remove 22 True
+Remove 33 True
+Remove 44 True
+Remove 55 True
+Remove 66 True
+Remove 77 True
+Remove 88 True
+Remove 99 True
+PrintBST
+0:  9 
+1:  8 999 
+2:  7 888 9999 
+3:  6 777 8888 99999 
+4:  5 666 7777 88888 999999 
+5:  4 555 6666 77777 888888 9999999 
+6:  3 444 5555 66666 777777 8888888 99999999 
+7:  2 333 4444 55555 666666 7777777 88888888 999999999 
+8:  1 
+
+Remove 4444 True
+Remove 5555 True
+Remove 6666 True
+Remove 7777 True
+Remove 8888 True
+Remove 9999 True
+PrintBST
+0:  9 
+1:  8 999 
+2:  7 888 99999 
+3:  6 777 88888 999999 
+4:  5 666 77777 888888 9999999 
+5:  4 555 66666 777777 8888888 99999999 
+6:  3 444 55555 666666 7777777 88888888 999999999 
+7:  2 333 
+8:  1 
+
+Remove 666666 True
+Remove 777777 True
+Remove 888888 True
+Remove 999999 True
+PrintBST
+0:  9 
+1:  8 999 
+2:  7 888 99999 
+3:  6 777 88888 9999999 
+4:  5 666 77777 8888888 99999999 
+5:  4 555 66666 7777777 88888888 999999999 
+6:  3 444 55555 
+7:  2 333 
+8:  1 
+
+Remove 88888888 True
+Remove 99999999 True
+PrintBST
+0:  9 
+1:  8 999 
+2:  7 888 99999 
+3:  6 777 88888 9999999 
+4:  5 666 77777 8888888 999999999 
+5:  4 555 66666 7777777 
+6:  3 444 55555 
+7:  2 333 
+8:  1 
+
+Remove 999999999 True
+PrintBST
+0:  9 
+1:  8 999 
+2:  7 888 99999 
+3:  6 777 88888 9999999 
+4:  5 666 77777 8888888 
+5:  4 555 66666 7777777 
+6:  3 444 55555 
+7:  2 333 
+8:  1 
+
+Remove 7777777 True
+Remove 8888888 True
+Remove 9999999 True
+PrintBST
+0:  9 
+1:  8 999 
+2:  7 888 99999 
+3:  6 777 88888 
+4:  5 666 77777 
+5:  4 555 66666 
+6:  3 444 55555 
+7:  2 333 
+8:  1 
+
+Remove 55555 True
+Remove 66666 True
+Remove 77777 True
+Remove 88888 True
+Remove 99999 True
+PrintBST
+0:  9 
+1:  8 999 
+2:  7 888 
+3:  6 777 
+4:  5 666 
+5:  4 555 
+6:  3 444 
+7:  2 333 
+8:  1 
+
+Remove 333 True
+Remove 444 True
+Remove 555 True
+Remove 666 True
+Remove 777 True
+Remove 888 True
+Remove 999 True
+PrintBST
+0:  9 
+1:  8 
+2:  7 
+3:  6 
+4:  5 
+5:  4 
+6:  3 
+7:  2 
+8:  1 
+
+Remove 1 True
+Remove 2 True
+Remove 3 True
+Remove 4 True
+Remove 5 True
+Remove 6 True
+Remove 7 True
+Remove 8 True
+Remove 9 True
+PrintBST
+BST is empty
+Clear
+PrintBST
+BST is empty
+Add 1 True
+Add 2 True
+Add 3 True
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+
+Add 3 False
+Add 2 False
+Add 1 False
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+
+Remove 5 False
+Remove 4 False
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+
+Remove 3 True
+PrintBST
+0:  1 
+1:  2 
+
+Remove 2 True
+PrintBST
+0:  1 
+
+Remove 3 False
+Remove 2 False
+PrintBST
+0:  1 
+
+Remove 1 True
+PrintBST
+BST is empty
+Add 8 True
+Add 12 True
+Add 14 True
+Add 15 True
+Add 13 True
+Add 10 True
+Add 11 True
+Add 9 True
+Add 4 True
+Add 6 True
+Add 5 True
+Add 7 True
+Add 2 True
+Add 3 True
+Add 1 True
+PrintBST
+0:  8 
+1:  4 12 
+2:  2 6 10 14 
+3:  1 3 5 7 9 11 13 15 
+
+Clear
+Add 1 True
+Add 2 True
+Add 3 True
+Add 4 True
+Add 5 True
+Add 6 True
+Add 7 True
+Add 8 True
+Add 9 True
+Add 10 True
+Add 11 True
+Add 12 True
+Add 13 True
+Add 14 True
+Add 15 True
+PrintBST
+0:  1 
+1:  2 
+2:  3 
+3:  4 
+4:  5 
+5:  6 
+6:  7 
+7:  8 
+8:  9 
+9:  10 
+10:  11 
+11:  12 
+12:  13 
+13:  14 
+14:  15 
+
+Clear
+Add 15 True
+Add 14 True
+Add 7 True
+Add 5 True
+Add 9 True
+Add 3 True
+Add 6 True
+Add 8 True
+Add 12 True
+Add 1 True
+Add 11 True
+Add 13 True
+Add 2 True
+Add 10 True
+PrintBST
+0:  15 
+1:  14 
+2:  7 
+3:  5 9 
+4:  3 6 8 12 
+5:  1 11 13 
+6:  2 10 
+
+Remove 3 True
+PrintBST
+0:  15 
+1:  14 
+2:  7 
+3:  5 9 
+4:  1 6 8 12 
+5:  2 11 13 
+6:  10 
+
+Remove 5 True
+PrintBST
+0:  15 
+1:  14 
+2:  7 
+3:  2 9 
+4:  1 6 8 12 
+5:  11 13 
+6:  10 
+
+Remove 2 True
+PrintBST
+0:  15 
+1:  14 
+2:  7 
+3:  1 9 
+4:  6 8 12 
+5:  11 13 
+6:  10 
+
+Remove 8 True
+PrintBST
+0:  15 
+1:  14 
+2:  7 
+3:  1 9 
+4:  6 12 
+5:  11 13 
+6:  10 
+
+Remove 9 True
+PrintBST
+0:  15 
+1:  14 
+2:  7 
+3:  1 12 
+4:  6 11 13 
+5:  10 
+
+Remove 7 True
+PrintBST
+0:  15 
+1:  14 
+2:  6 
+3:  1 12 
+4:  11 13 
+5:  10 
+
+Remove 1 True
+PrintBST
+0:  15 
+1:  14 
+2:  6 
+3:  12 
+4:  11 13 
+5:  10 
+
+Remove 6 True
+PrintBST
+0:  15 
+1:  14 
+2:  12 
+3:  11 13 
+4:  10 
+
+Remove 14 True
+PrintBST
+0:  15 
+1:  12 
+2:  11 13 
+3:  10 
+
+Add 10 True
+Add 5 True
+Add 15 True
+Add 3 True
+Add 13 True
+Add 1 True
+Add 11 True
+Add 2 True
+Add 12 True
+Add 7 True
+Add 17 True
+Add 9 True
+Add 19 True
+Add 8 True
+Add 18 True
+Add 0 True
+Add 20 True
+Add 4 True
+Add 14 True
+Add 6 True
+Add 16 True
+PrintBST
+0:  10 
+1:  5 15 
+2:  3 7 13 17 
+3:  1 4 6 9 11 14 16 19 
+4:  0 2 8 12 18 20 
+
+Remove 10 True
+PrintBST
+0:  9 
+1:  5 15 
+2:  3 7 13 17 
+3:  1 4 6 8 11 14 16 19 
+4:  0 2 12 18 20 
+
+Remove 9 True
+PrintBST
+0:  8 
+1:  5 15 
+2:  3 7 13 17 
+3:  1 4 6 11 14 16 19 
+4:  0 2 12 18 20 
+
+Remove 8 True
+PrintBST
+0:  7 
+1:  5 15 
+2:  3 6 13 17 
+3:  1 4 11 14 16 19 
+4:  0 2 12 18 20 
+
+Remove 7 True
+PrintBST
+0:  6 
+1:  5 15 
+2:  3 13 17 
+3:  1 4 11 14 16 19 
+4:  0 2 12 18 20 
+
+Remove 6 True
+PrintBST
+0:  5 
+1:  3 15 
+2:  1 4 13 17 
+3:  0 2 11 14 16 19 
+4:  12 18 20 
+
+Remove 5 True
+PrintBST
+0:  4 
+1:  3 15 
+2:  1 13 17 
+3:  0 2 11 14 16 19 
+4:  12 18 20 
+
+Remove 4 True
+PrintBST
+0:  3 
+1:  1 15 
+2:  0 2 13 17 
+3:  11 14 16 19 
+4:  12 18 20 
+
+Remove 3 True
+PrintBST
+0:  2 
+1:  1 15 
+2:  0 13 17 
+3:  11 14 16 19 
+4:  12 18 20 
+
+Remove 2 True
+PrintBST
+0:  1 
+1:  0 15 
+2:  13 17 
+3:  11 14 16 19 
+4:  12 18 20 
+
+Remove 1 True
+PrintBST
+0:  0 
+1:  15 
+2:  13 17 
+3:  11 14 16 19 
+4:  12 18 20 
+
+Remove 0 True
+PrintBST
+0:  15 
+1:  13 17 
+2:  11 14 16 19 
+3:  12 18 20 
+
+Remove 15 True
+PrintBST
+0:  14 
+1:  13 17 
+2:  11 16 19 
+3:  12 18 20 
+
+Remove 14 True
+PrintBST
+0:  13 
+1:  11 17 
+2:  12 16 19 
+3:  18 20 
+
+Remove 13 True
+PrintBST
+0:  12 
+1:  11 17 
+2:  16 19 
+3:  18 20 
+
+Remove 12 True
+PrintBST
+0:  11 
+1:  17 
+2:  16 19 
+3:  18 20 
+
+Remove 11 True
+PrintBST
+0:  17 
+1:  16 19 
+2:  18 20 
+
+Remove 17 True
+PrintBST
+0:  16 
+1:  19 
+2:  18 20 
+
+Remove 16 True
+PrintBST
+0:  19 
+1:  18 20 
+
+Remove 19 True
+PrintBST
+0:  18 
+1:  20 
+
+Remove 18 True
+PrintBST
+0:  20 
+
+Remove 20 True
+PrintBST
+BST is empty

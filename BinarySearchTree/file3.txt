@@ -1,0 +1,104 @@
+Clear
+PrintBST
+Add 9
+Add 99
+Add 999
+Add 9999
+Add 99999
+Add 999999
+Add 9999999
+Add 99999999
+Add 999999999
+Add 8
+Add 88
+Add 888
+Add 8888
+Add 88888
+Add 888888
+Add 8888888
+Add 88888888
+Add 7
+Add 77
+Add 777
+Add 7777
+Add 77777
+Add 777777
+Add 7777777
+Add 6
+Add 66
+Add 666
+Add 6666
+Add 66666
+Add 666666
+Add 5
+Add 55
+Add 555
+Add 5555
+Add 55555
+Add 4
+Add 44
+Add 444
+Add 4444
+Add 3
+Add 33
+Add 333
+Add 2
+Add 22
+Add 1
+PrintBST
+Remove 22
+Remove 33
+Remove 44
+Remove 55
+Remove 66
+Remove 77
+Remove 88
+Remove 99
+PrintBST
+Remove 4444
+Remove 5555
+Remove 6666
+Remove 7777
+Remove 8888
+Remove 9999
+PrintBST
+Remove 666666
+Remove 777777
+Remove 888888
+Remove 999999
+PrintBST
+Remove 88888888
+Remove 99999999
+PrintBST
+Remove 999999999
+PrintBST
+Remove 7777777
+Remove 8888888
+Remove 9999999
+PrintBST
+Remove 55555
+Remove 66666
+Remove 77777
+Remove 88888
+Remove 99999
+PrintBST
+Remove 333
+Remove 444
+Remove 555
+Remove 666
+Remove 777
+Remove 888
+Remove 999
+PrintBST
+Remove 1
+Remove 2
+Remove 3
+Remove 4
+Remove 5
+Remove 6
+Remove 7
+Remove 8
+Remove 9
+PrintBST
+Clear
+PrintBST
