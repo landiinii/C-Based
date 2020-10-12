@@ -1,0 +1,34 @@
+0x0000: 30f40001000000000000   | irmovq Stack,%rsp
+0x000a: 30f20300000000000000   | irmovq $3,%rdx
+0x0014: 30f65a00000000000000   | irmovq dest,%rsi
+0x001e: 30f74200000000000000   | irmovq src,%rdi
+0x0028: 807200000000000000     | call copy_block
+0x0031: 00                     | halt
+0x0032:                        | .align 8
+0x0038: 30fe4500000000000000   | irmovq 69, %r14
+0x0042:                        | src:
+0x0042: 0a                     | .quad 0x00a
+0x004a: b0                     | .quad 0x0b0
+0x0052: 000c                   | .quad 0xc00
+0x005a:                        | dest:
+0x005a: 1101                   | .quad 0x111
+0x0062: 2202                   | .quad 0x222
+0x006a: 3303                   | .quad 0x333
+0x0072:                        | copy_block:
+0x0072: 6300                   | xorq %rax,%rax		# result = 0
+0x0074: 6222                   | andq %rdx,%rdx		# len : 0?
+0x0076: 71b800000000000000     | jle L4			# <=, goto done
+0x007f:                        | L5:	
+0x007f: 50a70000000000000000   | mrmovq (%rdi),%r10	# Loop: val = *src
+0x0089: 40a60000000000000000   | rmmovq %r10,(%rsi)	# *dest = val
+0x0093: 30fb0800000000000000   | irmovq $8,%r11
+0x009d: 60b7                   | addq %r11,%rdi		# src++
+0x009f: 60b6                   | addq %r11,%rsi		# dest++
+0x00a1: 63a0                   | xorq %r10,%rax		# result ^= val
+0x00a3: 30fb0100000000000000   | irmovq $1,%r11
+0x00ad: 61b2                   | subq %r11,%rdx		# len--
+0x00af: 767f00000000000000     | jg L5			# if len > 0, goto Loop
+0x00b8: 90                     | L4:	ret			# Return
+0x00b9:                        | .pos 0x100
+0x0100:                        | Stack:
+                               | 

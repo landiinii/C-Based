@@ -1,0 +1,33 @@
+Machines:
+petra
+tajmahal
+chichenitza
+colosseum
+cristoredentor
+greatwall
+machupicchu
+parthenon
+illinois
+utah
+iowa
+louisiana
+pacman
+qbert
+falcon
+lancer
+baler
+combine
+estonia
+fiji
+
+Phase_1:
+When a problem comes along, you must zip it!
+
+Phase_2:
+1 2 4 8 16 32
+
+Phase_3:
+3 483
+
+phase_4:
+60 3
